@@ -14,6 +14,8 @@
 		D13A08C527FCACA20008068B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13A08C327FCACA20008068B /* Main.storyboard */; };
 		D13A08C727FCACA50008068B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D13A08C627FCACA50008068B /* Assets.xcassets */; };
 		D13A08CA27FCACA50008068B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D13A08C827FCACA50008068B /* LaunchScreen.storyboard */; };
+		D19921AE27FDF68600BB2481 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19921AD27FDF68500BB2481 /* Animation.swift */; };
+		D19921B027FE010F00BB2481 /* SpringData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19921AF27FE010F00BB2481 /* SpringData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		D13A08C627FCACA50008068B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D13A08C927FCACA50008068B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D13A08CB27FCACA50008068B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D19921AD27FDF68500BB2481 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		D19921AF27FE010F00BB2481 /* SpringData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpringData.swift; sourceTree = "<group>"; };
 		F995C6B557C4C52988BDA2F9 /* Pods_SpringCocoa.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SpringCocoa.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -75,7 +79,9 @@
 				D13A08BD27FCACA20008068B /* AppDelegate.swift */,
 				D13A08BF27FCACA20008068B /* SceneDelegate.swift */,
 				D13A08C127FCACA20008068B /* ViewController.swift */,
+				D19921AF27FE010F00BB2481 /* SpringData.swift */,
 				D13A08C327FCACA20008068B /* Main.storyboard */,
+				D19921AD27FDF68500BB2481 /* Animation.swift */,
 				D13A08C627FCACA50008068B /* Assets.xcassets */,
 				D13A08C827FCACA50008068B /* LaunchScreen.storyboard */,
 				D13A08CB27FCACA50008068B /* Info.plist */,
@@ -208,6 +214,8 @@
 			files = (
 				D13A08C227FCACA20008068B /* ViewController.swift in Sources */,
 				D13A08BE27FCACA20008068B /* AppDelegate.swift in Sources */,
+				D19921AE27FDF68600BB2481 /* Animation.swift in Sources */,
+				D19921B027FE010F00BB2481 /* SpringData.swift in Sources */,
 				D13A08C027FCACA20008068B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
