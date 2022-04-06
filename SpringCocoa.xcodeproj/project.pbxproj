@@ -80,10 +80,10 @@
 				D13A08BF27FCACA20008068B /* SceneDelegate.swift */,
 				D13A08C127FCACA20008068B /* ViewController.swift */,
 				D19921AF27FE010F00BB2481 /* SpringData.swift */,
-				D13A08C327FCACA20008068B /* Main.storyboard */,
 				D19921AD27FDF68500BB2481 /* Animation.swift */,
-				D13A08C627FCACA50008068B /* Assets.xcassets */,
+				D13A08C327FCACA20008068B /* Main.storyboard */,
 				D13A08C827FCACA50008068B /* LaunchScreen.storyboard */,
+				D13A08C627FCACA50008068B /* Assets.xcassets */,
 				D13A08CB27FCACA50008068B /* Info.plist */,
 			);
 			path = SpringCocoa;
